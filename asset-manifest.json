@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hulu-clone/static/css/main.14cb9f0d.chunk.css",
-    "main.js": "/hulu-clone/static/js/main.820ef7d1.chunk.js",
-    "main.js.map": "/hulu-clone/static/js/main.820ef7d1.chunk.js.map",
+    "main.js": "/hulu-clone/static/js/main.7f9bb10d.chunk.js",
+    "main.js.map": "/hulu-clone/static/js/main.7f9bb10d.chunk.js.map",
     "runtime-main.js": "/hulu-clone/static/js/runtime-main.78f30248.js",
     "runtime-main.js.map": "/hulu-clone/static/js/runtime-main.78f30248.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/hulu-clone/static/css/2.20aa2d7b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.ac39d00a.chunk.js",
     "static/css/main.14cb9f0d.chunk.css",
-    "static/js/main.820ef7d1.chunk.js"
+    "static/js/main.7f9bb10d.chunk.js"
   ]
 }
